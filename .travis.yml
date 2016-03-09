@@ -18,6 +18,5 @@ install:
   # Install npm dependecies
   - npm install
 
-before_script:
-- mkdir -p $LOGS_DIR
+
 
